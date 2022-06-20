@@ -1,4 +1,4 @@
-package com.designpatterns.Stratergy;
+package com.designpatterns.Strategy;
 
 public class PngCompressor implements Compressor{
     @Override
