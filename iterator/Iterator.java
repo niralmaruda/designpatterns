@@ -1,4 +1,4 @@
-package com.designpatterns.Iterator;
+package com.designpatterns.iterator;
 
 public interface Iterator {
     boolean hasNext();

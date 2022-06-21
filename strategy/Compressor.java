@@ -1,4 +1,4 @@
-package com.designpatterns.Strategy;
+package com.designpatterns.strategy;
 
 public interface Compressor {
     void compress(String fileName);

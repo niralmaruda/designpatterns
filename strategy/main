@@ -1,9 +1,9 @@
 package com.designpatterns;
 
-import com.designpatterns.Strategy.BlackAndWhiteFilter;
-import com.designpatterns.Strategy.ImageStorage;
-import com.designpatterns.Strategy.JpegCpmpressor;
-import com.designpatterns.Strategy.PngCompressor;
+import com.designpatterns.strategy.BlackAndWhiteFilter;
+import com.designpatterns.strategy.ImageStorage;
+import com.designpatterns.strategy.JpegCpmpressor;
+import com.designpatterns.strategy.PngCompressor;
 
 public class Main {
 
