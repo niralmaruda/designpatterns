@@ -1,12 +1,7 @@
-package com.designpatterns;
+package com.designpatterns.memento;
 
-import com.designpatterns.memento.Editor;
-import com.designpatterns.memento.History;
-
-public class Main {
-
+public class App {
     public static void main(String[] args) {
-	// write your code here
         var editor = new Editor();
         var history = new History();
 
